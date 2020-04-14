@@ -23,3 +23,9 @@ This program works best if you have darker colored eyes. The lighting around you
 - CV2
 - Numpy
 - Dlib
+
+**Dlib Required File**
+
+For Dlib face detection to work you need to download the file "shape_predictor_68_face_landmarks.dat" and use that for the predictor. There are many different predictor files you can use, however this is the only one I have tested. 
+
+You can find the download on this link https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
