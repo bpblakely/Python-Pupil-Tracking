@@ -17,3 +17,9 @@ This program works best if you have darker colored eyes. The lighting around you
 - [x] Track the pupil quickly and accurately in live video
 - [ ] Map the relative location of your pupil to where you are looking on screen
 - [ ] Implement a GUI to show the output and adjust parameters
+
+**Dependencies**
+
+- CV2
+- Numpy
+- Dlib
