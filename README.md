@@ -10,7 +10,7 @@ The way this program works is by:
 
 **Some Notes**
 
-This program works best if you have darker colored eyes. The lighting around you also impacts the correctness of the tracking, but the program does automatically adjust the lighting detection depending on the average of points found in the pupil. So if in the last X samples there is less than Y samples, it will automatically reduce the darkness threshold to try and pick up the pupil. Likewise, if there are too many points it will start to increase the threshold making lighter colors appear less (such as white). If the threshold is too high then the white areas around the pupil will start to get detected, which is the opposite purpose of this program.
+This program works best if you have darker colored eyes. The lighting around you also impacts the correctness of the tracking, but the program does automatically adjust the lighting detection depending on the average of points found in the pupil. So if in the last X samples there is less than Y samples, it will automatically reduce the darkness threshold to try and pick up the pupil. Likewise, if there are too many points it will start to increase the threshold making lighter colors appear less (such as white). If the threshold is too high then the white areas around the pupil will start to get detected, which is the opposite purpose of this program. Also, this is my first time working with live video and I'm learning everything from scratch.
 
 **Features List / To Do**
 
