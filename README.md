@@ -1,6 +1,9 @@
 # Python-Pupil-Tracking
 Python program to track your pupils in real time
 
+[Imgur](https://i.imgur.com/Znz0zYU.mp4)
+
+
 The way this program works is by:
 
 1. Detecting the face
@@ -15,7 +18,7 @@ This program works best if you have darker colored eyes. The lighting around you
 **Features List / To Do**
 
 - [x] Track the pupil quickly and accurately in live video
-- [ ] Map the relative location of your pupil to where you are looking on screen
+- [ ] Map the relative location of your pupil to where you are looking on screen (half-way there)
 - [ ] Implement a GUI to show the output and adjust parameters
 
 **Dependencies**
