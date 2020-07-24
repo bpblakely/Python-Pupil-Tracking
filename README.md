@@ -1,6 +1,9 @@
 # Python-Pupil-Tracking
 Python program to track your pupils in real time
+
+
 ![demo](eye_tracker_demo.gif)
+
 
 
 The way this program works is by:
